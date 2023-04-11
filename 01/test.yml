@@ -1,6 +1,13 @@
 # Every YAML file should start with three dashes
 ---
  
- 
+
+#if you want to add any number of individual yaml scripts in single file you can add 
+
+multiple 
+---
+
 # Every YAML file should end with three dots
 ...
+
+
